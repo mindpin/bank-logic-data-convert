@@ -1,0 +1,48 @@
+class Hmzd
+  include Mongoid::Document
+
+  field :hmdm
+  field :zdxh
+  field :zdbt
+  field :tsxx
+  field :xssx
+  field :zdlx
+  field :sjbm
+  field :sjlx
+  field :zdcd
+  field :xsws
+  field :qsh
+  field :qsl
+  field :czfs
+  field :xxdm
+  field :xxzb
+  field :czbz
+  field :cz
+  field :kzbz
+  field :qzfw
+  field :qrbz
+  field :srsb
+  field :bz
+  field :mmzh
+  field :zdjydm
+  field :zdjyrk
+  field :zdjyck
+  field :zdqdtj
+  field :jrtj
+  field :lktj
+  field :fhtj
+  field :lkzx
+  field :x
+  field :y
+  field :w
+  field :h
+  field :r
+  field :c
+  field :colspan
+  field :cxjydm
+  field :cxqdtj
+  field :cxjyrk
+  field :cxxsbt
+  field :cxxsid
+
+end

@@ -146,6 +146,7 @@ GEM
     rdoc (4.2.2)
       json (~> 1.4)
     remotipart (1.2.1)
+    ruby-progressbar (1.7.5)
     safe_yaml (1.0.4)
     sass (3.4.22)
     sass-rails (5.0.4)
@@ -191,12 +192,10 @@ DEPENDENCIES
   mongoid (~> 4.0.0)
   rails (= 4.2.3)
   rails_admin
+  ruby-progressbar
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
   spring
   turbolinks
   uglifier (>= 1.3.0)
   web-console (~> 2.0)
-
-BUNDLED WITH
-   1.11.2
